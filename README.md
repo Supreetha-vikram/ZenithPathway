@@ -33,4 +33,9 @@
 - REST APIs  
 - Git & GitHub
 
+---
+
+## 🛠️ Glimpse of the UI
+
+<img width="1901" height="797" alt="Screenshot 2026-01-21 220048" src="https://github.com/user-attachments/assets/58b5d726-1743-4d3f-9a61-6cce0fea5aa0" />
 
